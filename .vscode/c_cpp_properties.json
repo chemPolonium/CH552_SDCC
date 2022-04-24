@@ -2,8 +2,8 @@
     "configurations": [
         {
             "name": "Win32",
-            "#": "Replace the include path with your own sdcc include path",
             "includePath": [
+                // Replace the include path with your own sdcc include path
                 "C:/Users/liboy/scoop/apps/sdcc/current/include/**",
                 "${workspaceFolder}/**"
             ],
